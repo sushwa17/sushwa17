@@ -1,4 +1,4 @@
-![Banner](https://pin.it/5p5KfjyCP)
+![Banner(https://share.google/NUTONDVplhP8FNZyk)
 
    # 👋 Hey, I'm **Sushwanth**
 ### 🧠 AI Enthusiast | Full-Stack Developer | Creative Desigener
