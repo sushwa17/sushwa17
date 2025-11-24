@@ -1,11 +1,10 @@
-<!-- Banner -->
-![Banner](https://i.ibb.co/7n6gZ8z/github-banner.png)
+![Banner](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-# 👋 Hey, I'm **Sushwanth**  
-### 🧠 AI Enthusiast | Full-Stack Developer | Creative Designer  
-### 🎓 Integrated MTech in AI @ VIT Bhopal  
+# 👋 Hey, I'm **Sushwanth**
+### 🧠 AI Enthusiast | Full-Stack Developer | Creative Designer
+### 🎓 Integrated MTech in AI @ VIT Bhopal
 
-A passionate builder who loves coding, designing, and turning ideas into real-world projects.  
+A passionate builder who loves coding, designing, and turning ideas into real-world projects.
 Quick learner, strong grasping power, and always excited to experiment with new technologies.
 
 ---
@@ -32,30 +31,35 @@ Quick learner, strong grasping power, and always excited to experiment with new 
 
 ## 🔥 **Featured Projects**
 
-### 🎬 **Movie Recommendation System (Flask + ML)**  
+### 🎬 **Movie Recommendation System (Flask + ML)**
 A production-ready recommendation engine using similarity matrix, complete with UI and dataset integration.
 
-👉 **Repository:** *(add when uploaded)*  
+👉 **Repository:** *(add when uploaded)*
 
 ---
 
-### 🤖 **AI Agent – Task Automation Bot**  
+### 🤖 **AI Agent – Task Automation Bot**
 An AI-powered agent that performs automated tasks, decision-making, and workflow execution.
 
-👉 **Repository:** *(add when uploaded)*  
+👉 **Repository:** *(add when uploaded)*
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushwanth&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushwanth&layout=compact&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sushwanth&show_icons=true&theme=radical" alt="Sushwanth's GitHub stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushwanth&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 **Achievements**
-![trophy](https://github-profile-trophy.vercel.app/?username=sushwanth&theme=radical)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sushwanth&theme=radical" alt="Sushwanth's Trophies" />
+</p>
 
 ---
 
