@@ -1,4 +1,4 @@
-![Banner(https://share.google/NUTONDVplhP8FNZyk)
+![Banner](https://share.google/NUTONDVplhP8FNZyk)
 
    # 👋 Hey, I'm **Sushwanth**
 ### 🧠 AI Enthusiast | Full-Stack Developer | Creative Desigener
