@@ -1,7 +1,7 @@
-![Banner](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Banner](https://pin.it/5p5KfjyCP)
 
-# 👋 Hey, I'm **Sushwanth**
-### 🧠 AI Enthusiast | Full-Stack Developer | Creative Designer
+   # 👋 Hey, I'm **Sushwanth**
+### 🧠 AI Enthusiast | Full-Stack Developer | Creative Desigener
 ### 🎓 Integrated MTech in AI @ VIT Bhopal
 
 A passionate builder who loves coding, designing, and turning ideas into real-world projects.
